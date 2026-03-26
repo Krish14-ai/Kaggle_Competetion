@@ -43,6 +43,10 @@ Across different projects in this repo, I work with a variety of datasets and pr
 
 The goal of this repository is not just to build models, but to understand **how different datasets require different approaches** — especially in preprocessing and model selection. Each project reflects practical decision-making rather than a one-size-fits-all pipeline.
 
+## Process 
+<img width="1005" height="4261" alt="image" src="https://github.com/user-attachments/assets/a641bddf-a22a-45eb-ab6c-c82056bd21b8" />
+
+
 ## 📌 Notes
 
 * Each notebook is self-contained and explains the workflow step by step.
